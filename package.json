@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "its an e-commerce app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizah484/code-challenge-wk1-ph2.git"
+  },
+  "author": "Eliza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elizah484/code-challenge-wk1-ph2/issues"
+  },
+  "homepage": "https://github.com/Elizah484/code-challenge-wk1-ph2#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

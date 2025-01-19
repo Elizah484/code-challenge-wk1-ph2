@@ -1,0 +1,14 @@
+.cart.item {
+    border-bottom: 1px solid #ccc;
+    padding-left: 10px;
+}
+.quantity {
+    display: flex;
+    align-items: center;
+}
+.quantity span{
+    margin: 0 10px;
+}
+.cart-item button {
+    margin-left: 8px;
+  }

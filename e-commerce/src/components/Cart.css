@@ -1,0 +1,28 @@
+.cart {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    margin-top: 16px;
+    background-color:brown;
+  }
+  
+  .cart h2 {
+    margin-bottom: 16px;
+    background-color:green;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  
+  .cart-item button {
+    margin-left: 8px;
+  }
+  
+  .cart-total {
+    font-weight: bold;
+    margin-top: 16px;
+  }
+  
