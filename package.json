@@ -16,8 +16,9 @@
   "bugs": {
     "url": "https://github.com/Elizah484/code-challenge-wk1-ph2/issues"
   },
-  "homepage": "https://github.com/Elizah484/code-challenge-wk1-ph2#readme",
+  "homepage": "https://elizah484.github.io/code-challenge-wk1-ph2",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "gh-pages": "^6.3.0"
   }
 }
