@@ -1,4 +1,3 @@
- code-challenge-wk1-ph2
 
 # E-Commerce Application 
 ## Contents 
