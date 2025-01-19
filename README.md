@@ -1,5 +1,7 @@
 
 # E-Commerce Application 
+#### this is where the server is 
+http://localhost:3002/
 ## Contents 
 1. This application aims in helping the user to easily select items that to be added in the cart and select the quantity they need.
 2. Also displaces a view of all items in one section with the prie and the item name in particular.
